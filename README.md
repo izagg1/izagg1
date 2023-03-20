@@ -1,6 +1,6 @@
-<h1>Hi, I'm Gabriel, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Gabriel, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/izagg1/osticket-prereqs)
@@ -11,10 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/izagg1/azure-network-protocols)
   - [Create Virtual Machines Within Azure and Observe The Network Topology](https://github.com/izagg1/create-azure-vm)
 
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<h2>Connect with me:</h2>
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/Josh
 [linkedin]: https://linkedin.com/in/Josh
