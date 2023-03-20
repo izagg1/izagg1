@@ -19,6 +19,6 @@
 
 
 
-[linkedin]: https://linkedin.com/in/gabriel-izaguirre
+[linkedin]: https://linkedin.com/in/gabriel-izaguirre-9285a1255
 
 
